@@ -110,7 +110,6 @@ Este projeto foi desenvolvido com foco em aprendizado de **React Native**, abord
 
 * [ ] Definir tamanho da senha
 * [ ] Opções de caracteres (números, símbolos, etc.)
-* [ ] Feedback visual ao copiar
 * [ ] Publicação na Play Store
 
 ---
