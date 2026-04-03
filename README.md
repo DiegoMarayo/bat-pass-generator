@@ -6,6 +6,12 @@ Um aplicativo mobile desenvolvido com **React Native + Expo** para gerar senhas 
 
 ## 📱 Preview
 
+### 🔐 Gerador de senha
+![Bat Pass Generator](./assets/preview.png)
+
+### 📋 Resultado
+![Result](./assets/result.png)
+
 App minimalista com foco em:
 
 * Geração de senhas aleatórias
